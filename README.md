@@ -1,1 +1,1 @@
-# linear_regression_model
+# python-sample
